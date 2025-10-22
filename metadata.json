@@ -1,0 +1,7 @@
+{
+  "name": "SmartConsult - AI Hair Transplant Assistant",
+  "description": "An AI-powered assistant for personalized hair transplant consultations. Get an initial assessment, chat with our smart consultant, and connect with Smile Hair Clinic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
